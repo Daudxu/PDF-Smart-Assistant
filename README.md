@@ -1,1 +1,1 @@
-# PDF-Smart-Assistant
+# smart-assistant

@@ -51,7 +51,7 @@ const fetchAnswer = async () => {
       isAi: true,
       value: "Loading....",
     });
-    const res = await fetch("http://localhost:8000", {
+    const res = await fetch("http://localhost:1573", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
