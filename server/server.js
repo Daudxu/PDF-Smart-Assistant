@@ -36,7 +36,7 @@ app.post("/", async (req, res) => {
     });
   } catch (error) {
     // console.error(error);
-    res.status(500).send(error || "阿西吧");
+    res.status(500).send(error || "Error Something's wrong");
   }
 });
 
